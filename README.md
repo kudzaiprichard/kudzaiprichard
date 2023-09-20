@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kudzaiprichard
 - 👀 I’m interested in system architecture design
-- 🌱 I’m currently learning artficial intelligence
+- 🌱 I’m currently focusing on artficial intelligence
 - 💞️ I’m looking to collaborate on any challenging and intresting projects
 - 📫 How to reach me kudzaiprichard@gmail.com
 
