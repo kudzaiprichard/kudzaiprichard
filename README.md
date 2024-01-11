@@ -74,26 +74,3 @@
         "Happy Coding👨‍💻"
     </p>
 </samp>
-
-<!-- Featured Repositories -->
-#### Featured
-
-<p align="center">
-    <a href="https://github.com/kudzaiprichard/spring-realestate-api">
-        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kudzaiprichard&repo=spring-realestate-api&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/kudzaiprichard/british-airways-virtual-internship">
-        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kudzaiprichard&repo=british-airways-virtual-internship&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/kudzaiprichard/ubot-mt4">
-        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kudzaiprichard&repo=ubot-mt4&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/kudzaiprichard/spring-ecommerce-api">
-        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=kudzaiprichard&repo=spring-ecommerce-api&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-</p>
