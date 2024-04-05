@@ -44,8 +44,7 @@
 </p>
 
 <!-- Details Section -->
-<details align="center">
-<summary> <samp>&#9776; More</samp></summary>
+<div align="center">
     <p align="center">
         <br>
         <!-- Activity Widget -->
@@ -63,7 +62,7 @@
                 src="https://img.shields.io/badge/-G Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
     </p>
-</details>
+</div>
 <br>
 
 <!-- Footer -->
