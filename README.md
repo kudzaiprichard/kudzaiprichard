@@ -6,7 +6,7 @@
   <samp>
     Software Engineer building backend systems & ML applications.
     <br/>
-    Based in Harare, Zimbabwe 🇿🇼 — shipping things that work in production.
+    Shipping production-grade software for teams anywhere in the world 🌍
   </samp>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### <samp>🛠️ What I work with</samp>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -40,10 +40,6 @@
 ---
 
 ### <samp>📊 GitHub Activity</samp>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kudzaiprichard&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kudzaiprichard&theme=radical" />
